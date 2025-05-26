@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+    outline: 2px dashed green;
+}
+
+body{
+    border: 2px solid red;
+}
+
+.debug{
+    border: 2px dashed green;
+}
+
+.image{
+    width: 50%;
+}
