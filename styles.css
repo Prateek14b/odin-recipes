@@ -2,8 +2,12 @@
     box-sizing: border-box;
 }
 
-body, .title, .recipe-list, #recipe1, #recipe2, #recipe3 {
-    border: 2px solid red;
+.title, .recipe-list, #recipe1, #recipe2, #recipe3 {
+    border: 2px solid #107d53;
+}
+
+.title, .recipe-list {
+    width: 50%;
 }
 
 body {
