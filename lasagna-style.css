@@ -1,6 +1,8 @@
 *{
     box-sizing: border-box;
     outline: 2px dashed green;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 10px;
 }
 
 body{
@@ -13,4 +15,22 @@ body{
 
 .image{
     width: 50%;
+    margin-left: 10px;
+}
+.ingredients-list, .steps-list, .lasagna-1, .lasagna-2{
+    padding: 10px;
+}
+.ingredients-list, .steps-list{
+    list-style-type: square;
+}
+.ingredients, .steps{
+    margin: 5px auto;
+}
+.links-list{
+    padding: 0px;
+}
+
+#go-to-top, #go-to-home{
+    margin: 15px auto;
+    padding: 0px;
 }
