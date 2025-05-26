@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+}
+
+body, .title, .recipe-list, #recipe1, #recipe2, #recipe3 {
+    border: 2px solid red;
+}
+
+
