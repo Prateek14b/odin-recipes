@@ -44,3 +44,7 @@ div:empty{
     border: none;
 }
 
+h1:not(:empty),  h2:not(:empty){
+    padding: 10px;
+}
+
